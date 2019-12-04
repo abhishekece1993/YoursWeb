@@ -563,7 +563,7 @@ header.active .top-line {
 
 
 .bgimg {
-	background-image: url('../myproject/Ai.jpg');
+	background-image: url('/Ai.jpg');
 	height: 100%;
 	background-position: center;
 	background-size: cover;
